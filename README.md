@@ -30,10 +30,10 @@ This project allows users to control the mouse using **hand gestures**, powered 
 git clone https://github.com/Vaijayyantiik/virtual-mouse.git
 cd virtual-mouse
 
-2. Install required packages
+3. Install required packages
 pip install -r requirements.txt
 
-3. Run the project
+4. Run the project
 python virtual_mouse.py
 
 📸 How it Works
