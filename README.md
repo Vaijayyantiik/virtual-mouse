@@ -28,6 +28,7 @@ This project allows users to control the mouse using **hand gestures**, powered 
 
 1. Clone the repo
 git clone https://github.com/Vaijayyantiik/virtual-mouse.git
+
 cd virtual-mouse
 
 3. Install required packages
